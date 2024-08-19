@@ -1,0 +1,19 @@
+
+.list-item {
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.edit-btn {
+    margin: 0px 5px 0px 20px;
+}
+
+.btn {
+color: white;
+background-color: olive;
+padding: 3px 15px;
+border-radius: 5px;
+cursor: pointer;
+border: none;
+}
+

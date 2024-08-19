@@ -1,0 +1,19 @@
+
+.edit-btn {
+    margin: 0px 5px 0px 20px;
+}
+
+.btn {
+color: white;
+background-color: olive;
+padding: 3px 15px;
+border-radius: 5px;
+cursor: pointer;
+border: none;
+}
+
+.todo-input {
+     padding: 3px 11px;
+     border-radius: 5px;
+     font-size: 20px;
+}
